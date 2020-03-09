@@ -4,7 +4,7 @@
 package main
 
 // These are the libraries we are going to use
-// Both "fmt" and "net" are part of the Go standard library
+// Both "fmt" and "net" are part of the Go standard library - shijith
 import (
 	// "fmt" has methods for formatted I/O operations (like printing to the console)
 	"fmt"
